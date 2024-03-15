@@ -1,4 +1,4 @@
-### Olá 
+### Olá 👋🏽
 
 **Seja bem-vindo(a) à minha jornada na Nuvem e no Backend em Python!** ☁️
 
@@ -25,9 +25,3 @@ Estou continuamente buscando expandir meus conhecimentos e habilidades. Atualmen
 **Agradecimentos:**
 
 Agradeço a todos que me apoiam e contribuem para minha jornada de aprendizado. Estou sempre aberto a críticas construtivas, sugestões e colaborações.
-
-**Ícones utilizados:**
-
-* ☁️: Nuvem
-* : Python
-
