@@ -31,8 +31,3 @@ Agradeço a todos que me apoiam e contribuem para minha jornada de aprendizado. 
 * ☁️: Nuvem
 * : Python
 
-**Observação:**
-
-* Substitua `[seu_email@exemplo.com]` pelo seu endereço de e-mail real.
-
-**Espero que você goste de explorar este repositório!** 
