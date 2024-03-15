@@ -20,7 +20,6 @@ Estou continuamente buscando expandir meus conhecimentos e habilidades. Atualmen
 
 **Como se conectar comigo:**
 
-* GitHub: https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves.github.io
 * LinkedIn: https://br.linkedin.com/in/rafaelalvestech
 
 **Agradecimentos:**
